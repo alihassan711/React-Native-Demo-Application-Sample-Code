@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/b785a229af76faf3dcd42402fdcb8c6c/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/95cd466db18f5c67e19400b6abf57f75/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/b54a7f0aa23ab112b04d6bfd455da346/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/9f67419d12afdb8e849303711c8e1977/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/3a336605b6b27413111a64db72b5a858/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/9e09e667877381f9f132b9bc45bef105/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/45103e55b0d4d6d8df62b65ca76c81b7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/6b17cde78a57a22f0f4cb9c0b57f51fa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/b8dc30aa7106a40d31902bf4ca2d200c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/2670d3771115a48d3d7699b6291d6cac/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/254187ad58d7854f558d9deccfcd6dc3/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/8a71b2d69f40a07ad8e005daf0cba71f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/81a5d492710d05f487aeb8b33e146fff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/516103911ca9f47805fd392a99102509/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/c47e7e54c693a444bd511821a36f0aae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/e5b2c2c1fe23f7d6c98bd95983679520/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/7f197e9b425455974b3c56873506a27d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/6a91b7f6bbd5443fb3ab41986c799736/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/b4ccd1ca446242d6c45602ee4ae73d5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/0678d9d2e7a1e39d34e0173f0744807d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/81e581f5a332efef4759a8ab41971c85/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/dfa8b1eed25ba5ff0cc75267108cfc5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/4590fe5df57b83291c190f5a30f9038e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/29edf1911d8596dd835e7467d14db0eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/97ea22384365030d934644472b7990af/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/d4f138accf0d2cad3dc2dcb3253d2d9d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/ffa18ae5a8f6133d882d9178268d490d/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/a101e6c258bc92e541522fc316adae2b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/63f83a0a735354e73a69a093b35297ec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/3a3883a06781fbb5e959b994f14dac46/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/727ea3dbb1aa1367b5293382705a978a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/6b2f52e848d448d737ff0523bf72df3b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/0a991cc114842741d6451b63d060d175/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/526cdc6b3ca44f0234e53a1a11ef9092/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/35257b89b60de6bf45bf175ebf706a63/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/3a9b55e26eb2ab0d6d4c31e487bbcf72/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/9c0e41b01a2eebca7efb96fa68d3004c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/094de5ee1d055f4af80c19e502d896f2/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/b785a229af76faf3dcd42402fdcb8c6c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/b785a229af76faf3dcd42402fdcb8c6c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/254187ad58d7854f558d9deccfcd6dc3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/254187ad58d7854f558d9deccfcd6dc3/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/d4f138accf0d2cad3dc2dcb3253d2d9d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/d4f138accf0d2cad3dc2dcb3253d2d9d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/ffa18ae5a8f6133d882d9178268d490d/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/ffa18ae5a8f6133d882d9178268d490d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/d4f138accf0d2cad3dc2dcb3253d2d9d/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.awesomeproject1.MainActivity
+ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/b785a229af76faf3dcd42402fdcb8c6c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/b785a229af76faf3dcd42402fdcb8c6c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/95cd466db18f5c67e19400b6abf57f75/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/95cd466db18f5c67e19400b6abf57f75/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/b54a7f0aa23ab112b04d6bfd455da346/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/b54a7f0aa23ab112b04d6bfd455da346/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/9f67419d12afdb8e849303711c8e1977/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/9f67419d12afdb8e849303711c8e1977/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/3a336605b6b27413111a64db72b5a858/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/3a336605b6b27413111a64db72b5a858/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/9e09e667877381f9f132b9bc45bef105/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/9e09e667877381f9f132b9bc45bef105/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/45103e55b0d4d6d8df62b65ca76c81b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/45103e55b0d4d6d8df62b65ca76c81b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/6b17cde78a57a22f0f4cb9c0b57f51fa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/6b17cde78a57a22f0f4cb9c0b57f51fa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/b8dc30aa7106a40d31902bf4ca2d200c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/b8dc30aa7106a40d31902bf4ca2d200c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/2670d3771115a48d3d7699b6291d6cac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/2670d3771115a48d3d7699b6291d6cac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/254187ad58d7854f558d9deccfcd6dc3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/254187ad58d7854f558d9deccfcd6dc3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/8a71b2d69f40a07ad8e005daf0cba71f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/8a71b2d69f40a07ad8e005daf0cba71f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/81a5d492710d05f487aeb8b33e146fff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/81a5d492710d05f487aeb8b33e146fff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/516103911ca9f47805fd392a99102509/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/516103911ca9f47805fd392a99102509/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/c47e7e54c693a444bd511821a36f0aae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/c47e7e54c693a444bd511821a36f0aae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/e5b2c2c1fe23f7d6c98bd95983679520/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/e5b2c2c1fe23f7d6c98bd95983679520/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/7f197e9b425455974b3c56873506a27d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/7f197e9b425455974b3c56873506a27d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/6a91b7f6bbd5443fb3ab41986c799736/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/6a91b7f6bbd5443fb3ab41986c799736/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/b4ccd1ca446242d6c45602ee4ae73d5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/b4ccd1ca446242d6c45602ee4ae73d5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/0678d9d2e7a1e39d34e0173f0744807d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/0678d9d2e7a1e39d34e0173f0744807d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/81e581f5a332efef4759a8ab41971c85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/81e581f5a332efef4759a8ab41971c85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/dfa8b1eed25ba5ff0cc75267108cfc5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/dfa8b1eed25ba5ff0cc75267108cfc5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/4590fe5df57b83291c190f5a30f9038e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/4590fe5df57b83291c190f5a30f9038e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/29edf1911d8596dd835e7467d14db0eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/29edf1911d8596dd835e7467d14db0eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/97ea22384365030d934644472b7990af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/97ea22384365030d934644472b7990af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/d4f138accf0d2cad3dc2dcb3253d2d9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/d4f138accf0d2cad3dc2dcb3253d2d9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/ffa18ae5a8f6133d882d9178268d490d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/ffa18ae5a8f6133d882d9178268d490d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/a101e6c258bc92e541522fc316adae2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/a101e6c258bc92e541522fc316adae2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/63f83a0a735354e73a69a093b35297ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/63f83a0a735354e73a69a093b35297ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/3a3883a06781fbb5e959b994f14dac46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/3a3883a06781fbb5e959b994f14dac46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/727ea3dbb1aa1367b5293382705a978a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/727ea3dbb1aa1367b5293382705a978a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/6b2f52e848d448d737ff0523bf72df3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/6b2f52e848d448d737ff0523bf72df3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/0a991cc114842741d6451b63d060d175/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/0a991cc114842741d6451b63d060d175/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/526cdc6b3ca44f0234e53a1a11ef9092/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/526cdc6b3ca44f0234e53a1a11ef9092/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/35257b89b60de6bf45bf175ebf706a63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/35257b89b60de6bf45bf175ebf706a63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/3a9b55e26eb2ab0d6d4c31e487bbcf72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/3a9b55e26eb2ab0d6d4c31e487bbcf72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/9c0e41b01a2eebca7efb96fa68d3004c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/9c0e41b01a2eebca7efb96fa68d3004c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/094de5ee1d055f4af80c19e502d896f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/AlBurraq/.gradle/caches/transforms-2/files-2.1/094de5ee1d055f4af80c19e502d896f2/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/src/debug/AndroidManifest.xml:5:22-75

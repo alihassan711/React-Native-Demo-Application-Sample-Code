@@ -1,0 +1,4 @@
+#Mon Dec 02 13:42:29 PKT 2019
+base.0=/Users/AlBurraq/Google Drive/react-native/AwesomeProject1/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
